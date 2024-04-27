@@ -14,6 +14,7 @@ public class MavenRemoteLibraryTutorial
 
     /**
      * Calculate value of given two integers.
+     *
      * @param   operation the operation type
      * @param   a value one
      * @param   b value 2
