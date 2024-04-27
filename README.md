@@ -6,7 +6,7 @@ Java maven project for maven remote repository library.
     * Maven
 
 * ### Configuration
-    * 
+    * https://sachithariyathilaka.medium.com/maven-remote-repository-with-nexus-6b928d488de0
 
 * ### Release Note
 
