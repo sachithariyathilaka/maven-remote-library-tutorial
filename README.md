@@ -1,2 +1,17 @@
-# maven-remote-library-tutorial
-Java maven project for maven remote repository library
+# Maven Remote Library Tutorial
+Java maven project for maven remote repository library.
+
+* ### Technologies
+    * Java 8
+    * Maven
+
+* ### Configuration
+    * 
+
+* ### Release Note
+
+    * Release: 1.0.0
+    * Date: 2024/04/27
+    * Module: Maven Remote Library Tutorial
+    * Changes
+        * Maven remote library related functionalities implemented.
