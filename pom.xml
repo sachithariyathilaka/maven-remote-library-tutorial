@@ -141,4 +141,12 @@
         <outputDirectory>${project.build.directory}/site</outputDirectory>
     </reporting>
 
+    <!-- Publishing information -->
+    <distributionManagement>
+        <repository>
+            <id>maven-remote</id>
+            <url>http://172.25.164.219:8081/repository/maven-remote-library/</url>
+        </repository>
+    </distributionManagement>
+
 </project>
